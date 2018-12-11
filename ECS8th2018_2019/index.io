@@ -48,9 +48,9 @@
     <h3>Date:</h3>
     <p>12/3/18
     <h3>Message:</h3>
-    <p>?
-    <p>Get the box of Freezepops from target for $4.99
-    <p>This is a false statement. 
+    <p>About Me: I am Deniz, leader of the Deniz land. I have come from the universe over. We ran out of milk. Would you like to be a good neighbor and let me have some of yours?
+    <p>
+    <p>
   </section>
   
   <a href="https://denizg123.github.io/ECS8th2018_2019" title="click me" target="_blank"> click here</a>
