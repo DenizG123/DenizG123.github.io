@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-  <title> Some ofmy favorite thing</title>
+  <title> My favorite picture page</title>
   <meta name="description" content="things">
   <meta name="viewport" content="things"
 </head>
@@ -17,6 +17,6 @@
    Hi, if you want to see a pretty decent meme 
    </h1>
   
-   <a <link src="https://i.kym-cdn.com/photos/images/original/001/226/371/1d3.jpg" title="equality" target="_blank"> Cick here </a>
+   <a <link href="https://i.kym-cdn.com/photos/images/original/001/226/371/1d3.jpg" title="equality" target="_blank"> Cick here </a>
 </body>
 </html>
