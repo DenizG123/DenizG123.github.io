@@ -1,18 +1,23 @@
 <!doctype html>
 <html>
- <head>
+<head>
   <title> Some ofmy favorite thing</title>
   <meta name="description" content="things">
   <meta name="viewport" content="things"
- </head>
- <header> 
- <h2>Welcome to the my favorites page</h2>
- </header>
-<h1>
-Hi, if you want to see a pretty decent meme 
-</h1>
-<br> 
-<br> 
- <a <img src="https://i.kym-cdn.com/photos/images/original/001/226/371/1d3.jpg" title="equality" target="_blank"> Cick here to see my favorite image</a>
+</head>
 
+
+<header> 
+ <h2>Welcome to the my favorites page</h2>
+</header>
+ 
+ 
+<body>
+   <h1>
+   Hi, if you want to see a pretty decent meme 
+   </h1>
+   <br> 
+   <br> 
+   <a <img src="https://i.kym-cdn.com/photos/images/original/001/226/371/1d3.jpg" title="equality" target="_blank"> Cick here to see my favorite image</a>
+</body>
 </html>
