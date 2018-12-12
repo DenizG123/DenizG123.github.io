@@ -1,12 +1,13 @@
 <!doctype html>
 <html>
-<header>
-<head>
-<title> Some ofmy favorite thing</title>
-<meta name="description" content="things">
-<meta name="viewport" content="things"
-</head>
-</header>
+ <head>
+  <title> Some ofmy favorite thing</title>
+  <meta name="description" content="things">
+  <meta name="viewport" content="things"
+ </head>
+ <header> 
+ <h2>Welcome to the my favorites page</h2>
+ </header>
 <h1>
 Hi, if you want to see a pretty decent meme 
 </h1>
