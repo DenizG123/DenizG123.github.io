@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <head>
+    <title>My Contacts</title>
+    <meta name="viewport" content=""width=device-width">
+    <meta name="description" content="My Contacts">                                                   
+    <link rel="stylesheet" href="DenizG123.github.io/main.css">
+  </head>
+  <header>
+    <h2>My Contacts</h2>
+  </header>
+  <body>
+    <strong>School email</strong>dgulecyuz@cps.edu<br>
+    <strong>Business email</strong>:dgulecyuz818@gmail.com<br>
+    <strong>You can reach me any time of day through whatever</strong><br>
+    <a href="DenizG123.github.io/index.html"> click here to go back home</a>
+  </body>
+</html>
