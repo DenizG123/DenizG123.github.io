@@ -1,8 +1,55 @@
-<!doctype html> 
-<style>
-html { 
-  background-color: purple;
+html {
+  background-color: lightgreen;
 }
-  section {
+
+p {	
+  background-color: white; /*background color of everything inside paragraphs*/
+  orange: red
 }
-</style>
+
+img {
+  border-style: inset; /*other options are dotted, dashed, double, groove, ridge, outset, and none*/
+  border-width: 4px;
+  border_color: black; /*you need to first have a style before you can set a color!*/
+	
+  width: 115px; /*if there's both a width here and in the <img width=""> then which one gets used? */
+}
+
+h1 {
+  font-family: 'Trebuchet MS', sans-serif; 
+  font-size: 48px;
+  color: blue;
+  font-weight: normal; /*google search other property value options for font-weight in css*/
+}
+
+h2 {
+  margin-top: 12px;
+  margin-right: 10px; 
+  margin-bottom: 8px;
+  margin-left: 16px; 
+}
+
+
+h3 {
+  margin: 0 auto 0 auto; 
+  box-shadow: 2px -5px 3px 4px purple;  	/*in order: left/right, up/down, blur, spread, color 
+                                          play around with this on codeavengers where you can instantly see the change! */
+}
+
+h4 {
+  text-shadow: 2px -5px 3px yellow;  	/*in order: left/right, up/down, blur, color */
+}
+
+
+h5 {
+  text-shadow: 2px -5px 3px darkred, 0px -2px 10px blue;  	
+}
+
+header {
+  text-align: center; /*can also be left, right, and justify*/	
+}
+
+a {
+  text-decoration: none;	/*you can also put underline, line-through, or overline for values"*/\
+  color: violet; 
+}	
