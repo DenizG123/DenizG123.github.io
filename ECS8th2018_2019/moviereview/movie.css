@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+h1,
+h2 {
+  font-family: 'Roboto', sans-serif;
+  color: orange;
+  text-align: center;
+}
+footer {
+  font-family: 'Roboto', sans-serif;
+  color: orange;
+  text-align: center;
+}
+html {
+  width: 320px;
+  margin: 0 auto 0 auto;
+  font-family: 'Century Gothic', sans-serif;
+  font-size: 18px;
+  border: outset 5px blue;
+  background-image: url(/images/textures/light2a.png);
+  background-color: orange;
+}
+h1 {
+  font-size: 60px;
+  color: blue;
+  text-shadow: 0 0 10px red;
+}
+a {
+  color: orange;
+}
+a:hover {
+  color:yellow;
+}
+img {
+    border: outset 5px blue;
+}
+ul {
+  list-style-image: url(/images/icons/icon1.png);
+}
